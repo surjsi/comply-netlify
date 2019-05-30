@@ -32,7 +32,7 @@ collections:
     extension: "md"
     identifier_field: "name"
     frontmatter_delimiter: ["", "---"]
-    format: "yaml-frontmatter"
+    format: "frontmatter"
     summary: "[{{acronym}}] {{name}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
@@ -77,7 +77,7 @@ collections:
     extension: "md"
     identifier_field: "name"
     frontmatter_delimiter: ["", "---"]
-    format: "yaml-frontmatter"
+    format: "frontmatter"
     summary: "[{{acronym}}] {{name}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
@@ -121,7 +121,7 @@ collections:
     extension: "md"
     identifier_field: "name"
     frontmatter_delimiter: ["", "---"]
-    format: "yaml-frontmatter"
+    format: "frontmatter"
     preview_path: "/#procedures"
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
