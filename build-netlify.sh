@@ -71,4 +71,6 @@ envsubst < comply.dist.yml > comply.yml
 
 echo "Building the comply site"
 # Running the core build script, which you can run locally
-./build-site.sh
+#./build-site.sh
+./run-comply.sh
+
