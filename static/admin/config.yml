@@ -31,7 +31,7 @@ collections:
     preview_path: "/Sample-{{acronym}}.pdf"
     extension: "md"
     identifier_field: "name"
-    frontmatter_delimiter: ["---"]
+    
     format: "yaml-frontmatter"
     summary: "[{{acronym}}] {{name}}"
     create: true # Allow users to create new documents in this collection
@@ -76,7 +76,7 @@ collections:
     preview_path: "/Sample-{{acronym}}.pdf"
     extension: "md"
     identifier_field: "name"
-    frontmatter_delimiter: ["---"]
+    
     format: "yaml-frontmatter"
     summary: "[{{acronym}}] {{name}}"
     create: true # Allow users to create new documents in this collection
@@ -120,7 +120,7 @@ collections:
     folder: "procedures" # The path to the folder where the documents are stored
     extension: "md"
     identifier_field: "name"
-    frontmatter_delimiter: ["---"]
+    
     format: "yaml-frontmatter"
     preview_path: "/#procedures"
     create: true # Allow users to create new documents in this collection
