@@ -16,7 +16,7 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 
 # TODO: Replace with your published site URL here:
-site_url: "https://comply-netlify-cms.netlify.com"
+site_url: "https://cranky-goldberg-b4dc15.netlify.com"
 logo_url: "https://comply.strongdm.com/wp-content/uploads/2018/05/comply-logo-w-sdm.png"
 
 show_preview_links: true
