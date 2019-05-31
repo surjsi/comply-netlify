@@ -7,7 +7,7 @@ majorRevisions:
 ---
 # Control Environment Narrative
 
-The following provide a description of the control structure of {{.Name}}.
+The following provides a description of the control structure of {{.Name}}.
 
 The intent of this description is to enumerate the logical, policy, and procedural controls that serve to monitor {{.Name}}'s application and data security. Changes uncovered by these procedures in the logical, policy, procedural, or customer environment are addressed by remediations specific to the noted change.
 
