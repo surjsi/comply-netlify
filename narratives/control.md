@@ -1,11 +1,4 @@
 ---
-name: CEN
-acronym: CEN
-majorRevisions:
-  - comment: CEN
-    date: May 30 2019
----
-
 name: Control Environment Narrative
 acronym: CEN
 satisfies:
