@@ -14,7 +14,7 @@ satisfies:
 majorRevisions:
   - date: Jun 1 2018
     comment: Initial document
----
+...
 
 # Control Environment Narrative
 
