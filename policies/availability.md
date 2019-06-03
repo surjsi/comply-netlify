@@ -1,4 +1,4 @@
-
+---
 name: Availability Policy
 acronym: AP
 satisfies:

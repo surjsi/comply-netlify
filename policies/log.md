@@ -1,4 +1,4 @@
-
+---
 name: Log Management Policy
 acronym: LMP
 satisfies:

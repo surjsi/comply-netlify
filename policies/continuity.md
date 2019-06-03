@@ -1,4 +1,4 @@
-
+---
 name: Business Continuity Policy
 acronym: BCP
 satisfies:
