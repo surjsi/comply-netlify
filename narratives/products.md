@@ -2,13 +2,12 @@
 name: Products and Services Narrative
 acronym: PSN
 majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+  - comment: Initial document
+    date: Jun 1 2018
 ---
-
 # Products Narrative
 
-Here we describe the key products marketed by our organization
+Here we describe the key products marketed by our company
 
 # Products
 
