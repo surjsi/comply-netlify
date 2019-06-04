@@ -31,7 +31,7 @@ collections:
     preview_path: "/Sample-{{acronym}}.pdf"
     extension: "md"
     identifier_field: "name"
-    
+    frontmatter_delimiter: ["", "---"]
     format: "yaml-frontmatter"
     summary: "[{{acronym}}] {{name}}"
     create: true # Allow users to create new documents in this collection
