@@ -1,4 +1,3 @@
----
 name: Control Environment Narrative
 acronym: CEN
 majorRevisions:
