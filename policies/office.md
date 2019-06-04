@@ -1,4 +1,3 @@
----
 name: Office Security Policy
 acronym: OSP
 satisfies:

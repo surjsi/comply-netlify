@@ -1,4 +1,3 @@
----
 name: Remote Access Policy
 acronym: REAP
 satisfies:

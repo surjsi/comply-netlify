@@ -1,4 +1,3 @@
----
 name: Access Onboarding and Termination Policy
 acronym: AOTP
 satisfies:

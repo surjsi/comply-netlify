@@ -1,4 +1,3 @@
----
 name: Information Security Policy
 acronym: ISP
 satisfies:

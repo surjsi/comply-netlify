@@ -1,4 +1,3 @@
----
 name: Organizational Narrative
 acronym: 'ON'
 majorRevisions:

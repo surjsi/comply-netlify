@@ -1,4 +1,3 @@
----
 name: Code of Conduct Policy
 acronym: COCP
 satisfies:

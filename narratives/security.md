@@ -1,4 +1,3 @@
----
 name: Security Architecture Narrative
 acronym: SEN
 satisfies:
