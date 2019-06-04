@@ -73,4 +73,3 @@ echo "Building the comply site"
 # Running the core build script, which you can run locally
 #./build-site.sh
 ./run-comply.sh
-
