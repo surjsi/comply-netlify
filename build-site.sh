@@ -7,9 +7,6 @@
 # Let's copy the admin and potential uploads to the output/ folder
 cp -R static/* output/
 
-# If the uploads folder is absent, we create it for Netlify CMS.
-mkdir -p output/static/uploads
-
 # Add the build date with the UTC build date in the footer. Useful because we're doing static builds.
 FROM=" data-last-edit-date>"
 DATE=">Last edit: $(git --no-pager log -1 --format=%ci --date=default)"
